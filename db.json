@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "Seba", "email": "seb.lebid@gmail.com", "role": "admin" },
+    { "id": 2, "name": "Sanya", "email": "sanya.prop@gmail.com", "role": "user" }
+  ],
+  "posts": [
+    { "id": 1, "title": "Hello students", "userId": 1, "tags": ["student", "study"] },
+    { "id": 2, "title": "Hello pupils", "userId": 2, "tags": ["pupil"] }
+  ]
+}
